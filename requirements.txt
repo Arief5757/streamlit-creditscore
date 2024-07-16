@@ -1,5 +1,5 @@
-1. pandas
-2. scikit-learn
-3. seaborn
-4. matplotlib
-5. streamlit
+pandas
+scikit-learn
+seaborn
+matplotlib
+streamlit
